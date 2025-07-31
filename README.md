@@ -51,3 +51,6 @@ I'm always up for connecting with other Web3 devs, auditors-in-training, or curi
 
 corauf -on discord
 https://discord.gg/g59fycEM
+
+CoRauf -on github
+https://github.com/CoRauf/CoRauf
