@@ -49,3 +49,5 @@ I'm not here to play around with surface-level tutorials. I'm building from scra
 
 I'm always up for connecting with other Web3 devs, auditors-in-training, or curious minds building decentralized systems. If you're into learning by breaking, rebuilding, and mastering the details — we already speak the same language.
 
+corauf -on discord
+https://discord.gg/g59fycEM
